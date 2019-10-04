@@ -1,0 +1,7 @@
+com\prestaonlineshop\qa\base\TestBase.class
+com\prestaonlineshop\qa\pages\HomePage.class
+com\prestaonlineshop\qa\pages\SignInPage.class
+com\prestaonlineshop\qa\util\TestUtil.class
+com\prestaonlineshop\qa\pages\RegisteredPage.class
+com\prestaonlineshop\qa\pages\SignUpPage.class
+com\prestaonlineshop\qa\pages\UserWelcomePage.class

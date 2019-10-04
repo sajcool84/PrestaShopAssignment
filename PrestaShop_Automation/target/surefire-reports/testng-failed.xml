@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.prestaonlineshop.qa.testcases.SignUpPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="enter_addCity"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.prestaonlineshop.qa.testcases.SignUpPageTest -->
+      <class name="com.prestaonlineshop.qa.testcases.UserWelcomePageTest">
+        <methods>
+          <include name="checkOrderHistoryDetailsButtonExists"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.prestaonlineshop.qa.testcases.UserWelcomePageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

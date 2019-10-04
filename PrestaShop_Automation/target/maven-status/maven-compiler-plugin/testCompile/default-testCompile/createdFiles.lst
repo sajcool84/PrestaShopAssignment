@@ -1,0 +1,4 @@
+com\prestaonlineshop\qa\testcases\HomePageTest.class
+com\prestaonlineshop\qa\testcases\UserWelcomePageTest.class
+com\prestaonlineshop\qa\testcases\SignUpPageTest.class
+com\prestaonlineshop\qa\testcases\LoginPageTest.class

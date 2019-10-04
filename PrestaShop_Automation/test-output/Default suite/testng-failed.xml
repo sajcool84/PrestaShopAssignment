@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.prestaonlineshop.qa.testcases.SignUpPageTest">
+        <methods>
+          <include name="enter_ZipCode"/>
+          <include name="selectCheckBoxSignUpLetter"/>
+          <include name="select_DOBdd"/>
+          <include name="select_DOBmm"/>
+          <include name="select_DOByy"/>
+          <include name="enter_MyAddress"/>
+          <include name="setUp"/>
+          <include name="select_Country"/>
+          <include name="enter_addInfo"/>
+          <include name="enter_Password"/>
+          <include name="enter_addCompany"/>
+          <include name="enter_firstName"/>
+          <include name="selectTitleMrMrs"/>
+          <include name="tearDown"/>
+          <include name="select_State"/>
+          <include name="enter_addAddress"/>
+          <include name="enter_addCity"/>
+          <include name="enter_addLastName"/>
+          <include name="enter_lastName"/>
+          <include name="enter_HomePhoneNumber"/>
+          <include name="enter_MobilePhoneNumber"/>
+          <include name="enter_addFirstName"/>
+        </methods>
+      </class> <!-- com.prestaonlineshop.qa.testcases.SignUpPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
